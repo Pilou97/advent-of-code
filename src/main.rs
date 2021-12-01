@@ -1,3 +1,5 @@
+use adventofcode::prelude::*;
+
 fn main() {
-    println!("Hello, world!");
+    day1();
 }
