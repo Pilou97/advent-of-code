@@ -26,6 +26,7 @@ pub mod prelude {
     pub use crate::puzzles::day1::day1;
     pub use crate::puzzles::day2::day2;
     pub use crate::puzzles::day3::day3;
+    pub use crate::puzzles::day4::day4;
     pub use crate::utils;
 }
 
